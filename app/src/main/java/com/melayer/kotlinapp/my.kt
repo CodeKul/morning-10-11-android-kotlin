@@ -33,5 +33,13 @@ val strDta = """
 
 val car = Car() // new Car()
 fun carFn() {
-     println(""" Car country is ${car.cntry}""")
+    println(""" Car country is ${car.cntry}""")
+}
+
+
+fun main(args: Array<String>) {
+
+    fn(10)
+
+    val hq = fn
 }
