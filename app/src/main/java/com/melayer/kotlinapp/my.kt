@@ -42,4 +42,8 @@ fun main(args: Array<String>) {
     fn(10)
 
     val hq = fn
+
+    funDemo {
+        true
+    }
 }
