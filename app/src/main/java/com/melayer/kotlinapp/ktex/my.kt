@@ -1,4 +1,4 @@
-package com.melayer.kotlinapp
+package com.melayer.kotlinapp.ktex
 
 /**
  * Created by aniruddha on 9/3/18.
@@ -27,13 +27,12 @@ fun hi(): String {
 fun inlineHi() = "codekul"
 
 val strDta = """
-        Hello this is codekul everything is $nm and
+        Hello this is codekul everything is ${nm} and
         i am going to next line ${inlineHi()}
 """.trimIndent()
 
 val car = Car() // new Car()
 fun carFn() {
-    println(""" Car country is ${car.cntry}""")
 }
 
 
