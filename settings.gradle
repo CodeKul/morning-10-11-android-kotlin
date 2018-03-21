@@ -1,1 +1,1 @@
-include ':app', ':sample', ':samplelib', ':basicui'
+include ':app', ':sample', ':samplelib', ':basicui', ':layouts', ':sensors', ':bluetooth'
