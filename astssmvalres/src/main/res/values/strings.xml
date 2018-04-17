@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AstsSmValRes</string>
+
+    <string name="btnGo">Go</string>
+    <color name="btnCol">#ff0000</color>
+</resources>
