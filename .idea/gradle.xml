@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Slider" />
             <option value="$PROJECT_DIR$/adapterviews" />
             <option value="$PROJECT_DIR$/altres" />
             <option value="$PROJECT_DIR$/app" />
@@ -20,8 +21,11 @@
             <option value="$PROJECT_DIR$/fragments" />
             <option value="$PROJECT_DIR$/hndchngs" />
             <option value="$PROJECT_DIR$/interactcomm" />
+            <option value="$PROJECT_DIR$/intinfltr" />
             <option value="$PROJECT_DIR$/layouts" />
             <option value="$PROJECT_DIR$/lifecycle" />
+            <option value="$PROJECT_DIR$/materialsample" />
+            <option value="$PROJECT_DIR$/navdrawer" />
             <option value="$PROJECT_DIR$/sample" />
             <option value="$PROJECT_DIR$/samplelib" />
             <option value="$PROJECT_DIR$/sensors" />

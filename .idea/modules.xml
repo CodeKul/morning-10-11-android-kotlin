@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Slider/Slider.iml" filepath="$PROJECT_DIR$/Slider/Slider.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapterviews/adapterviews.iml" filepath="$PROJECT_DIR$/adapterviews/adapterviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/altres/altres.iml" filepath="$PROJECT_DIR$/altres/altres.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
@@ -14,9 +15,12 @@
       <module fileurl="file://$PROJECT_DIR$/fragments/fragments.iml" filepath="$PROJECT_DIR$/fragments/fragments.iml" />
       <module fileurl="file://$PROJECT_DIR$/hndchngs/hndchngs.iml" filepath="$PROJECT_DIR$/hndchngs/hndchngs.iml" />
       <module fileurl="file://$PROJECT_DIR$/interactcomm/interactcomm.iml" filepath="$PROJECT_DIR$/interactcomm/interactcomm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intinfltr/intinfltr.iml" filepath="$PROJECT_DIR$/intinfltr/intinfltr.iml" />
       <module fileurl="file://$PROJECT_DIR$/layouts/layouts.iml" filepath="$PROJECT_DIR$/layouts/layouts.iml" />
       <module fileurl="file://$PROJECT_DIR$/lifecycle/lifecycle.iml" filepath="$PROJECT_DIR$/lifecycle/lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialsample/materialsample.iml" filepath="$PROJECT_DIR$/materialsample/materialsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/morning-10-11-android-kotlin.iml" filepath="$PROJECT_DIR$/morning-10-11-android-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navdrawer/navdrawer.iml" filepath="$PROJECT_DIR$/navdrawer/navdrawer.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/samplelib/samplelib.iml" filepath="$PROJECT_DIR$/samplelib/samplelib.iml" />
       <module fileurl="file://$PROJECT_DIR$/sensors/sensors.iml" filepath="$PROJECT_DIR$/sensors/sensors.iml" />
