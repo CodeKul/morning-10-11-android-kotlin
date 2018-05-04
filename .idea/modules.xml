@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/astssmvalres/astssmvalres.iml" filepath="$PROJECT_DIR$/astssmvalres/astssmvalres.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicui/basicui.iml" filepath="$PROJECT_DIR$/basicui/basicui.iml" />
       <module fileurl="file://$PROJECT_DIR$/bluetooth/bluetooth.iml" filepath="$PROJECT_DIR$/bluetooth/bluetooth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brdrcvr/brdrcvr.iml" filepath="$PROJECT_DIR$/brdrcvr/brdrcvr.iml" />
       <module fileurl="file://$PROJECT_DIR$/compoundview/compoundview.iml" filepath="$PROJECT_DIR$/compoundview/compoundview.iml" />
       <module fileurl="file://$PROJECT_DIR$/customviews/customviews.iml" filepath="$PROJECT_DIR$/customviews/customviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/customviews2/customviews2.iml" filepath="$PROJECT_DIR$/customviews2/customviews2.iml" />
@@ -24,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/samplelib/samplelib.iml" filepath="$PROJECT_DIR$/samplelib/samplelib.iml" />
       <module fileurl="file://$PROJECT_DIR$/sensors/sensors.iml" filepath="$PROJECT_DIR$/sensors/sensors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srvc/srvc.iml" filepath="$PROJECT_DIR$/srvc/srvc.iml" />
     </modules>
   </component>
 </project>

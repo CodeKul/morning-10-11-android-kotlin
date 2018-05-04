@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/astssmvalres" />
             <option value="$PROJECT_DIR$/basicui" />
             <option value="$PROJECT_DIR$/bluetooth" />
+            <option value="$PROJECT_DIR$/brdrcvr" />
             <option value="$PROJECT_DIR$/compoundview" />
             <option value="$PROJECT_DIR$/customviews" />
             <option value="$PROJECT_DIR$/customviews2" />
@@ -29,6 +30,7 @@
             <option value="$PROJECT_DIR$/sample" />
             <option value="$PROJECT_DIR$/samplelib" />
             <option value="$PROJECT_DIR$/sensors" />
+            <option value="$PROJECT_DIR$/srvc" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
