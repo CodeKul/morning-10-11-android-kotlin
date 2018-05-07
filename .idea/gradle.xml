@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/compoundview" />
             <option value="$PROJECT_DIR$/customviews" />
             <option value="$PROJECT_DIR$/customviews2" />
+            <option value="$PROJECT_DIR$/dlgntfn" />
             <option value="$PROJECT_DIR$/fragments" />
             <option value="$PROJECT_DIR$/hndchngs" />
             <option value="$PROJECT_DIR$/interactcomm" />
@@ -31,6 +32,7 @@
             <option value="$PROJECT_DIR$/samplelib" />
             <option value="$PROJECT_DIR$/sensors" />
             <option value="$PROJECT_DIR$/srvc" />
+            <option value="$PROJECT_DIR$/stsbrntfn" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
