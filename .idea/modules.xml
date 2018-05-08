@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/hndchngs/hndchngs.iml" filepath="$PROJECT_DIR$/hndchngs/hndchngs.iml" />
       <module fileurl="file://$PROJECT_DIR$/interactcomm/interactcomm.iml" filepath="$PROJECT_DIR$/interactcomm/interactcomm.iml" />
       <module fileurl="file://$PROJECT_DIR$/intinfltr/intinfltr.iml" filepath="$PROJECT_DIR$/intinfltr/intinfltr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intrnlstrg/intrnlstrg.iml" filepath="$PROJECT_DIR$/intrnlstrg/intrnlstrg.iml" />
       <module fileurl="file://$PROJECT_DIR$/layouts/layouts.iml" filepath="$PROJECT_DIR$/layouts/layouts.iml" />
       <module fileurl="file://$PROJECT_DIR$/lifecycle/lifecycle.iml" filepath="$PROJECT_DIR$/lifecycle/lifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialsample/materialsample.iml" filepath="$PROJECT_DIR$/materialsample/materialsample.iml" />
@@ -26,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/samplelib/samplelib.iml" filepath="$PROJECT_DIR$/samplelib/samplelib.iml" />
       <module fileurl="file://$PROJECT_DIR$/sensors/sensors.iml" filepath="$PROJECT_DIR$/sensors/sensors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharedprefs/sharedprefs.iml" filepath="$PROJECT_DIR$/sharedprefs/sharedprefs.iml" />
       <module fileurl="file://$PROJECT_DIR$/srvc/srvc.iml" filepath="$PROJECT_DIR$/srvc/srvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/stsbrntfn/stsbrntfn.iml" filepath="$PROJECT_DIR$/stsbrntfn/stsbrntfn.iml" />
     </modules>

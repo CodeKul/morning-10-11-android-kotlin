@@ -24,6 +24,7 @@
             <option value="$PROJECT_DIR$/hndchngs" />
             <option value="$PROJECT_DIR$/interactcomm" />
             <option value="$PROJECT_DIR$/intinfltr" />
+            <option value="$PROJECT_DIR$/intrnlstrg" />
             <option value="$PROJECT_DIR$/layouts" />
             <option value="$PROJECT_DIR$/lifecycle" />
             <option value="$PROJECT_DIR$/materialsample" />
@@ -31,6 +32,7 @@
             <option value="$PROJECT_DIR$/sample" />
             <option value="$PROJECT_DIR$/samplelib" />
             <option value="$PROJECT_DIR$/sensors" />
+            <option value="$PROJECT_DIR$/sharedprefs" />
             <option value="$PROJECT_DIR$/srvc" />
             <option value="$PROJECT_DIR$/stsbrntfn" />
           </set>
