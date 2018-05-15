@@ -10,10 +10,12 @@
       <module fileurl="file://$PROJECT_DIR$/basicui/basicui.iml" filepath="$PROJECT_DIR$/basicui/basicui.iml" />
       <module fileurl="file://$PROJECT_DIR$/bluetooth/bluetooth.iml" filepath="$PROJECT_DIR$/bluetooth/bluetooth.iml" />
       <module fileurl="file://$PROJECT_DIR$/brdrcvr/brdrcvr.iml" filepath="$PROJECT_DIR$/brdrcvr/brdrcvr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cntntprvdr/cntntprvdr.iml" filepath="$PROJECT_DIR$/cntntprvdr/cntntprvdr.iml" />
       <module fileurl="file://$PROJECT_DIR$/compoundview/compoundview.iml" filepath="$PROJECT_DIR$/compoundview/compoundview.iml" />
       <module fileurl="file://$PROJECT_DIR$/customviews/customviews.iml" filepath="$PROJECT_DIR$/customviews/customviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/customviews2/customviews2.iml" filepath="$PROJECT_DIR$/customviews2/customviews2.iml" />
       <module fileurl="file://$PROJECT_DIR$/dlgntfn/dlgntfn.iml" filepath="$PROJECT_DIR$/dlgntfn/dlgntfn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etrnlstrg/etrnlstrg.iml" filepath="$PROJECT_DIR$/etrnlstrg/etrnlstrg.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragments/fragments.iml" filepath="$PROJECT_DIR$/fragments/fragments.iml" />
       <module fileurl="file://$PROJECT_DIR$/hndchngs/hndchngs.iml" filepath="$PROJECT_DIR$/hndchngs/hndchngs.iml" />
       <module fileurl="file://$PROJECT_DIR$/interactcomm/interactcomm.iml" filepath="$PROJECT_DIR$/interactcomm/interactcomm.iml" />
@@ -28,6 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/samplelib/samplelib.iml" filepath="$PROJECT_DIR$/samplelib/samplelib.iml" />
       <module fileurl="file://$PROJECT_DIR$/sensors/sensors.iml" filepath="$PROJECT_DIR$/sensors/sensors.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharedprefs/sharedprefs.iml" filepath="$PROJECT_DIR$/sharedprefs/sharedprefs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlite/sqlite.iml" filepath="$PROJECT_DIR$/sqlite/sqlite.iml" />
       <module fileurl="file://$PROJECT_DIR$/srvc/srvc.iml" filepath="$PROJECT_DIR$/srvc/srvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/stsbrntfn/stsbrntfn.iml" filepath="$PROJECT_DIR$/stsbrntfn/stsbrntfn.iml" />
     </modules>
