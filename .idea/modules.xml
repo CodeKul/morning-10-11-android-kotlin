@@ -21,6 +21,8 @@
       <module fileurl="file://$PROJECT_DIR$/interactcomm/interactcomm.iml" filepath="$PROJECT_DIR$/interactcomm/interactcomm.iml" />
       <module fileurl="file://$PROJECT_DIR$/intinfltr/intinfltr.iml" filepath="$PROJECT_DIR$/intinfltr/intinfltr.iml" />
       <module fileurl="file://$PROJECT_DIR$/intrnlstrg/intrnlstrg.iml" filepath="$PROJECT_DIR$/intrnlstrg/intrnlstrg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonparsing/jsonparsing.iml" filepath="$PROJECT_DIR$/jsonparsing/jsonparsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonparsingv2/jsonparsingv2.iml" filepath="$PROJECT_DIR$/jsonparsingv2/jsonparsingv2.iml" />
       <module fileurl="file://$PROJECT_DIR$/layouts/layouts.iml" filepath="$PROJECT_DIR$/layouts/layouts.iml" />
       <module fileurl="file://$PROJECT_DIR$/lifecycle/lifecycle.iml" filepath="$PROJECT_DIR$/lifecycle/lifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialsample/materialsample.iml" filepath="$PROJECT_DIR$/materialsample/materialsample.iml" />
