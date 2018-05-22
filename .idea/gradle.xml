@@ -40,6 +40,7 @@
             <option value="$PROJECT_DIR$/sqlite" />
             <option value="$PROJECT_DIR$/srvc" />
             <option value="$PROJECT_DIR$/stsbrntfn" />
+            <option value="$PROJECT_DIR$/webservices" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
