@@ -2,7 +2,7 @@ package com.codekul.wifi
 
 import android.content.BroadcastReceiver
 import android.content.Context
-import android.content.Intent
+import android.content.InMy Applicationtent
 import android.content.IntentFilter
 import android.net.wifi.WifiManager
 import android.support.v7.app.AppCompatActivity
