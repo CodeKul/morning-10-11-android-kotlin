@@ -38,10 +38,12 @@
             <option value="$PROJECT_DIR$/samplelib" />
             <option value="$PROJECT_DIR$/sensors" />
             <option value="$PROJECT_DIR$/sharedprefs" />
+            <option value="$PROJECT_DIR$/snsr" />
             <option value="$PROJECT_DIR$/sqlite" />
             <option value="$PROJECT_DIR$/srvc" />
             <option value="$PROJECT_DIR$/stsbrntfn" />
             <option value="$PROJECT_DIR$/webservices" />
+            <option value="$PROJECT_DIR$/wifi" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
